@@ -1,0 +1,75 @@
+ros-humble-omni-base-simulation (2.0.3-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Sun, 14 Apr 2024 16:00:00 -0000
+
+ros-humble-omni-base-simulation (2.0.2-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 09 Apr 2024 16:00:00 -0000
+
+ros-humble-omni-base-simulation (2.0.1-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Thu, 01 Feb 2024 16:00:00 -0000
+
+ros-humble-omni-base-simulation (2.0.0-1bullseye) bullseye; urgency=high
+
+  * omni_base ROS 2
+  * omnibase simulation to colcon
+  * Contributors: YueErro, andreacapodacqua
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 21 Nov 2023 16:00:00 -0000
+
+ros-humble-omni-base-simulation (0.0.7-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Wed, 22 Feb 2023 16:00:00 -0000
+
+ros-humble-omni-base-simulation (0.0.6-1bullseye) bullseye; urgency=high
+
+  * Merge branch 'fix/missing-deps' into 'ferrum-devel'
+    Added missing dependencies
+    See merge request robots/omni_base_simulation!5
+  * Update package.xml
+  * Contributors: antoniobrandi
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Sun, 29 Jan 2023 16:00:00 -0000
+
+ros-humble-omni-base-simulation (0.0.5-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Thu, 26 Jan 2023 16:00:00 -0000
+
+ros-humble-omni-base-simulation (0.0.4-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Sun, 07 Aug 2022 16:00:00 -0000
+
+ros-humble-omni-base-simulation (0.0.3-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 22 Feb 2022 16:00:00 -0000
+
+ros-humble-omni-base-simulation (0.0.2-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 23 Nov 2021 16:00:00 -0000
+
+ros-humble-omni-base-simulation (0.0.1-1bullseye) bullseye; urgency=high
+
+  * preparing release
+  * omni base simulation initial commit
+  * Contributors: antoniobrandi
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Wed, 29 Sep 2021 16:00:00 -0000
+
+
