@@ -2,6 +2,26 @@
 Changelog for package omni_base_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.0 (2024-12-02)
+------------------
+* Merge branch 'abr/feat/docking' into 'humble-devel'
+  using docking arg
+  See merge request robots/omni_base_simulation!28
+* always start docking with adv navigation
+* using docking arg
+* Contributors: antoniobrandi
+
+2.2.1 (2024-11-15)
+------------------
+
+2.2.0 (2024-10-16)
+------------------
+* Merge branch 'man/feat/advanced-nav' into 'humble-devel'
+  added advanced nav launch arg to navigation
+  See merge request robots/omni_base_simulation!25
+* added advanced nav launch arg to navigation
+* Contributors: antoniobrandi, martinaannicelli
+
 2.1.0 (2024-09-03)
 ------------------
 * Remove twist relay from simulation and launch in mobile_base_controller
